@@ -13,7 +13,7 @@ public class Main {
         for(int i = 0; i < 5; i++){
             if(empArray[i].age > 40){
                 System.out.println(empArray[i]);
-        }
-        }
+            }
+         }
     }
 }
